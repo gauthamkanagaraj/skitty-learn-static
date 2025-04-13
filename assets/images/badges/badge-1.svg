@@ -14,10 +14,13 @@
   <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#007c91" points="44.35,65.242 84.87,65.242 84.87,85.822 "/>
   <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#007c91" points="355.678,65.242 315.158,65.242 315.158,85.822 "/>
 </svg>
-  <foreignObject width="380" height="48" style="font-size: 30px;color: rgb(255, 255, 255);font-family: Arial;font-weight: 700;text-align: center;letter-spacing: 0em;line-height: 1.5;" x="10" y="106">
+  <foreignObject width="380" height="48" style="font-size: 24px;color: rgb(255, 255, 255);font-family: Arial;font-weight: 700;text-align: center;letter-spacing: 0em;line-height: 1.5;" x="10" y="106">
     <div xmlns="http://www.w3.org/1999/xhtml">Completed</div>
   </foreignObject>
   <image xlink:href="https://s3.us-east-1.amazonaws.com/accredible-api-templates/17445486897701306320536502419993.png" viewBox="0 0 500 500" width="60" height="60" x="144" y="260"/>
+  <text x="200" y="205" text-anchor="middle" fill="#ffffff" font-size="30" font-family="Arial" font-weight="bold">
+	Beginner Guide
+  </text>
   <foreignObject width="323" height="38" style="font-size: 17px;color: rgb(211, 81, 0);font-family: Arial;font-weight: 700;text-align: center;letter-spacing: 0em;line-height: 1.5;" x="80" y="278">
     <div xmlns="http://www.w3.org/1999/xhtml">SKeta</div>
   </foreignObject>
