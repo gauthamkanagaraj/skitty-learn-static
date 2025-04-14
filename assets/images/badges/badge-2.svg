@@ -17,7 +17,7 @@
   <foreignObject width="380" height="48" style="font-size: 24px;color: rgb(255, 255, 255);font-family: Arial;font-weight: 700;text-align: center;letter-spacing: 0em;line-height: 1.5;" x="10" y="106">
     <div xmlns="http://www.w3.org/1999/xhtml">Completed</div>
   </foreignObject>
-  <image xlink:href="https://s3.us-east-1.amazonaws.com/accredible-api-templates/17445486897701306320536502419993.png" viewBox="0 0 500 500" width="60" height="60" x="144" y="260"/>
+  <image xlink:href="https://raw.githubusercontent.com/gauthamkanagaraj/skitty-learn-static/refs/heads/develop/assets/images/login/SKeta-Logo.png" viewBox="0 0 500 500" width="60" height="60" x="144" y="260"/>
   <text x="200" y="205" text-anchor="middle" fill="#ffffff" font-size="30" font-family="Arial" font-weight="bold">
 	Quantum 101
   </text>
